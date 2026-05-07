@@ -1,5 +1,5 @@
-m=int(input())
-n=int(input())
+m=int(input('enter the digit'))
+n=int(input('enter the digit'))
 print(m)
 def gcd(m,n):
     if m<n:
