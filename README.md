@@ -5,3 +5,5 @@ The logical programs are primarily implemented in Python and are designed to dem
 The projects included here span both my Bachelor’s and Master’s studies, along with a selection of additional projects developed out of personal interest. These works highlight my practical experience in designing, developing, and implementing solutions across different domains.
 
 Overall, this repository provides a comprehensive view of my technical skill set, coding practices, and continuous learning approach.
+
+-Harish Kotre
